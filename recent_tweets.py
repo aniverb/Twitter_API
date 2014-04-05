@@ -1,5 +1,5 @@
 """
-easier, simpler way to access twitter api as opposed to urllib library from twitter stream and twitterinsults scripts
+easier, simpler way to access twitter api as opposed to urllib library 
 """
 import oauth2 as oauth
 import twitter #pip install twitter first
